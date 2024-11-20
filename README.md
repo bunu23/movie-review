@@ -30,8 +30,8 @@
     </ul>
     <h2>Screenshots</h2>
     <div>
-        <img src="images/demo1.png" alt="Movie Review App Screenshot 1" width="800">
-        <img src="images/demo2.png" alt="Movie Review App Screenshot 2" width="800">
+        <img src="sourcecode/images/demo1.png" alt="Movie Review App Screenshot 1" width="800">
+        <img src="sourcecode/images/demo2.png" alt="Movie Review App Screenshot 2" width="800">
     </div>
     <h2>References</h2>
     <div class="references">
