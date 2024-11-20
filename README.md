@@ -17,7 +17,7 @@
     <h2>Tech Stack</h2>
     <ul class="tech-stack">
         <li><strong>Backend</strong>: Java, Spring Boot</li>
-        <li><strong>Frontend</strong>: React, Bootstrap</li>
+        <li><strong>Frontend</strong>: React</li>
         <li><strong>Database</strong>: MongoDB</li>
         <li><strong>API</strong>: RESTful API with Axios for data fetching</li>
         <li><strong>Libraries</strong>:
