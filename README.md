@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Movie Review</h1>
-    <p>Full-stack application for browsing movies, watching trailers, and submitting reviews. Built with Java (Spring Boot) for the backend, React for the frontend, and MongoDB for storing the movie and review data.</p>
+    <p>Full-Stack application for browsing movies, watching trailers, and submitting reviews. Built with Java (Spring Boot) for the backend, React for the frontend, and MongoDB for storing the movie and review data.</p>
     <h2>Features</h2>
     <ul class="features">
         <li><strong>Movie Listing</strong>: Browse a list of movies with posters and basic information.</li>
